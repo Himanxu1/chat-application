@@ -4,7 +4,7 @@ import io from 'socket.io-client';
 
 
 let socket;
-const CONNECTION_PORT = 'http://localhost:3001/';
+const CONNECTION_PORT = 'https://chat-appilcation.herokuapp.com/';
 
 
 function App() {
